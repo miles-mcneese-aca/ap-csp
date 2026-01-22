@@ -6,7 +6,7 @@ int main () {
 	int array [100];
 	int i;
 	for(int i = 0; i < 100; i++){
-		array[i] = rand() % 10000;
+		array[i] = rand() % 200;
 	}
 	int num;
 	int found = 0;
