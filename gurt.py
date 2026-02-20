@@ -26,3 +26,5 @@ width=10
 height=2
 volume = depth*width*height
 print(f"Depth: {depth}, Width: {width}, Height: {height}, Volume: {volume}")
+KikiSmellsBad = True
+print(f"KikiSmellsBad: {KikiSmellsBad}")
